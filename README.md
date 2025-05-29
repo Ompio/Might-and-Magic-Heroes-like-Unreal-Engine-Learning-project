@@ -1,8 +1,26 @@
-Well, as name suggests this is my learning project, as it is made in UE 5.5.4
-For now there is implemented:
-  [X] 3D camera orbiting around focus point
-  [X] 3D camera zoom with scroll (10 points linear zoom, i hope animating it in tics isn't some profanation)
-  [ ] Control over focus point W.I.P
-  [ ] More to be added
-  
-It ain't much but it's honest work
+# UE 5.5.4 Learning Project
+
+Well, as the name suggests — this is my learning project, built with Unreal Engine **5.5.4**.
+
+I'm using this space to experiment, try things out, and get a better feel for UE.
+
+## ✅ Current Features
+
+- [x] **3D Camera Orbit**  
+  Orbiting around a focus point — smooth and responsive.
+
+- [x] **3D Camera Zoom**  
+  Zoom in/out with the scroll wheel using a 10-point linear zoom.  
+  (Yes, it's animated with ticks — and no, I don't think it's profanation 😉)
+
+## 🛠️ Work in Progress
+
+- [ ] **Control Over Focus Point**  
+  Still figuring this out.
+
+- [ ] **More to Come**  
+  One step at a time.
+
+---
+
+> It ain't much, but it's honest work.
