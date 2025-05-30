@@ -13,10 +13,14 @@ I'm using this space to experiment, try things out, and get a better feel for UE
   Zoom in/out with the scroll wheel using a 10-point linear zoom.  
   (Yes, it's animated with ticks — and no, I don't think it's profanation 😉)
 
+- [X] **Control Over Camera Focus Point By Navigating Mouse To The Edges Of The Screen**  
+  Basic rts camera controll.
+
 ## 🛠️ Work in Progress
 
-- [ ] **Control Over Focus Point**  
-  Still figuring this out.
+- [ ] **Click to Move Camera Focus Point To Pointed Destination**  
+
+- [ ] **Camera Focus Point Sticking To Landscape**  
 
 - [ ] **More to Come**  
   One step at a time.
