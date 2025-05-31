@@ -20,11 +20,20 @@ I'm using this space to experiment, try things out, and get a better feel for UE
 
 - [ ] **Click to Move Camera Focus Point To Pointed Destination**  
 
-- [ ] **Camera Focus Point Sticking To Landscape**  
+- [ ] **Camera Focus Point Sticking To Landscape**
+  Based on Line trace, multi point for better accuracy, less sharp changes across map and no falling into pits
+
+- [ ] **Minimap** 
 
 - [ ] **More to Come**  
   One step at a time.
 
+### 🧪 Cool but Unlikely Ideas
+
+These are things that would be awesome to implement one day, but realistically… probably not anytime soon.
+
+- [ ] **More Advanced Camera Sticking**
+  Runtime Virtual Texturing (RVT)/Height map sampling
 ---
 
 > It ain't much, but it's honest work.
