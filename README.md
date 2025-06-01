@@ -32,7 +32,8 @@ I'm using this space to experiment, try things out, and get a better feel for UE
 These are things that would be awesome to implement one day, but realistically… probably not anytime soon.
 
 - [ ] **More Advanced Camera Sticking**  
-  Runtime Virtual Texturing (RVT)/Height map sampling
+  Runtime Virtual Texturing (RVT)/Height map sampling/or multipoint line trace  
+(but for now i think most of them are overkill and mutlipoint isn't crucial)
 ---
 
 > It ain't much, but it's honest work.
