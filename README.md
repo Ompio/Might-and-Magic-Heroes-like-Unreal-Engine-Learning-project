@@ -22,7 +22,9 @@ I'm using this space to experiment, try things out, and get a better feel for UE
 
 - [ ] **Click to Move Camera Focus Point To Pointed Destination**  
 
-- [ ] **Minimap**🛠️ 
+- [ ] **Minimap**
+
+- [ ] **Camera Sticking Using Event Instead Of Every Tick**🛠️
 
 - [ ] **More to Come**  
   One step at a time.
