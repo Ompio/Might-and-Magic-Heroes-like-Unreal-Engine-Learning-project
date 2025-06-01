@@ -15,14 +15,14 @@ I'm using this space to experiment, try things out, and get a better feel for UE
 - [X] **Control Over Camera Focus Point By Navigating Mouse To The Edges Of The Screen**  
   Basic rts camera controll.
 
+- [X] **Camera Focus Point Sticking To Landscape**  
+  Based on Line trace, single point, no falling into pits secured by clamp.
+
 ## 🛠️ Work in Progress
 
 - [ ] **Click to Move Camera Focus Point To Pointed Destination**  
 
-- [ ] **Camera Focus Point Sticking To Landscape**🛠️  
-  Based on Line trace, multi point for better accuracy, less sharp changes across map and no falling into pits.
-
-- [ ] **Minimap** 
+- [ ] **Minimap**🛠️ 
 
 - [ ] **More to Come**  
   One step at a time.
